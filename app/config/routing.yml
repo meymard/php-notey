@@ -1,0 +1,5 @@
+meymard_core:
+    resource: "@MeymardCoreBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
